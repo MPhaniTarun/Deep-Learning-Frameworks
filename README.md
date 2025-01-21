@@ -1,2 +1,2 @@
 # Deep-Learning-Frameworks
-Repository for deep learning framework implementations
+Repository for deep learning framework implementations.
